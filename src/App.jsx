@@ -1,4 +1,4 @@
 export function App(){
-
-    return <h1>Hello Erickel Sarges</h1>
+ throw Error ('Eita Gioavana, o forninho caíu!');
+    return <h1>Hello Erickel Sarges Nascimento</h1>
 }
